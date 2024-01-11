@@ -26,3 +26,6 @@ function App() {
 }
 
 export default App
+
+
+// You can find the output in localhost:3000
